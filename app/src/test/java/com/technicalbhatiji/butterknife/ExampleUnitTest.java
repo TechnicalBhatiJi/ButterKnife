@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.infoskillstechnology.butterknife;
+package com.technicalbhatiji.butterknife;
 
 import org.junit.Test;
 
