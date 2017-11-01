@@ -32,7 +32,10 @@ Pull requests are welcomed!
 - Make sure you have Butterknife on your classpath
 - Make sure that your cursor is placed on a layout ID in a class having one of these types: Activity, Fragment, custom View or Adapter 
 
- [**our other Czech personalities**](http://inmite.github.io) who help with [#AndroidDev](https://plus.google.com/s/%23AndroidDev).
+# Blog
+
+ [Visit Blog](https://medium.com/technical-bhait-ji)
+ [How does work ButterKnife  viewbinding Tutorial by using Gradle library for Android (Beginner guide)](http://technicalbhatiji.com/butterknife%E2%80%8A-viewbinding-tutorial-by-using-gradle-library/)
 
 ## License
 
