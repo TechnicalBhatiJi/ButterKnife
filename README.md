@@ -34,13 +34,13 @@ Pull requests are welcomed!
 
 # Blog
 
- [Visit Blog](https://medium.com/technical-bhait-ji)
- [How does work ButterKnife  viewbinding Tutorial by using Gradle library for Android (Beginner guide)](http://technicalbhatiji.com/butterknife%E2%80%8A-viewbinding-tutorial-by-using-gradle-library/)
+ - Visit Blog [Visit Blog](https://medium.com/technical-bhait-ji)
+ - ButterKnife  viewbinding Tutorial [How does work ButterKnife  viewbinding Tutorial by using Gradle library for Android (Beginner guide)](http://technicalbhatiji.com/butterknife%E2%80%8A-viewbinding-tutorial-by-using-gradle-library/)
 
 ## License
 
 ```
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2017 Technical Bhati Ji
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
